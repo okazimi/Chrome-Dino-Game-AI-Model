@@ -133,4 +133,3 @@ class WebGame(Env):
             game_over = True
         # RETURN GAME OVER STATUS AND GAME OVER SCREEN CAPTURE
         return game_over, game_over_cap
-
